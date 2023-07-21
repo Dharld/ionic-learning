@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "common_name": "European Silver Fir",
+    "scientific_name": ["Abies alba"],
+    "other_name": ["Common Silver Fir"],
+    "cycle": "Perennial",
+    "watering": "Frequent",
+    "sunlight": ["full sun"],
+    "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/1_abies_alba/og/1536px-Abies_alba_SkalitC3A9.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/1_abies_alba/regular/1536px-Abies_alba_SkalitC3A9.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/1_abies_alba/medium/1536px-Abies_alba_SkalitC3A9.jpg",
+      "small_url": "https://perenual.com/storage/species_image/1_abies_alba/small/1536px-Abies_alba_SkalitC3A9.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/1_abies_alba/thumbnail/1536px-Abies_alba_SkalitC3A9.jpg"
+    },
+    "price": 15,
+
+    "category": "Category 1"
+  },
+  {
+    "id": 2,
+    "common_name": "Pyramidalis Silver Fir",
+    "scientific_name": ["Abies alba 'Pyramidalis'"],
+    "other_name": [],
+    "cycle": "Perennial",
+    "watering": "Average",
+    "sunlight": ["full sun"],
+    "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/2_abies_alba_pyramidalis/og/49255769768_df55596553_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/2_abies_alba_pyramidalis/regular/49255769768_df55596553_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/2_abies_alba_pyramidalis/medium/49255769768_df55596553_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/2_abies_alba_pyramidalis/small/49255769768_df55596553_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/2_abies_alba_pyramidalis/thumbnail/49255769768_df55596553_b.jpg"
+    },
+    "price": 7.5,
+
+    "category": "Category 1"
+  },
+  {
+    "id": 3,
+    "common_name": "White Fir",
+    "scientific_name": ["Abies concolor"],
+    "other_name": ["Silver Fir", "Concolor Fir", "Colorado Fir"],
+    "cycle": "Perennial",
+    "watering": "Average",
+    "sunlight": ["Full sun", "part shade"],
+    "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/3_abies_concolor/og/52292935430_f4f3b22614_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/3_abies_concolor/regular/52292935430_f4f3b22614_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/3_abies_concolor/medium/52292935430_f4f3b22614_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/3_abies_concolor/small/52292935430_f4f3b22614_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/3_abies_concolor/thumbnail/52292935430_f4f3b22614_b.jpg"
+    },
+    "price": 2.5,
+
+    "category": "Category 1"
+  },
+  {
+    "id": 4,
+    "common_name": "Candicans White Fir",
+    "scientific_name": ["Abies concolor 'Candicans'"],
+    "other_name": ["Silver Fir", "Concolor Fir", "Colorado Fir"],
+    "cycle": "Perennial",
+    "watering": "Average",
+    "sunlight": ["full sun"],
+    "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/og/49283844888_332c9e46f2_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/regular/49283844888_332c9e46f2_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/medium/49283844888_332c9e46f2_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/small/49283844888_332c9e46f2_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/thumbnail/49283844888_332c9e46f2_b.jpg"
+    },
+    "price": 4.75,
+    "category": "Category 2"
+  },
+  {
+    "id": 5,
+    "common_name": "Fraser Fir",
+    "scientific_name": ["Abies fraseri"],
+    "other_name": ["Southern Fir"],
+    "cycle": "Perennial",
+    "watering": "Frequent",
+    "sunlight": ["full sun", "part shade", "filtered shade"],
+    "default_image": {
+      "license": 4,
+      "license_name": "Attribution License",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/5_abies_fraseri/og/36843539702_e80fc436e0_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/5_abies_fraseri/regular/36843539702_e80fc436e0_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/5_abies_fraseri/medium/36843539702_e80fc436e0_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/5_abies_fraseri/small/36843539702_e80fc436e0_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/5_abies_fraseri/thumbnail/36843539702_e80fc436e0_b.jpg"
+    },
+    "price": 10,
+
+    "category": "Category 2"
+  },
+  {
+    "id": 6,
+    "common_name": "Golden Korean Fir",
+    "scientific_name": ["Abies koreana 'Aurea'"],
+    "other_name": [],
+    "cycle": "Perennial",
+    "watering": "Average",
+    "sunlight": ["Full sun", "part shade"],
+    "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/6_abies_koreana_aurea/og/49235570926_99ec10781d_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/6_abies_koreana_aurea/regular/49235570926_99ec10781d_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/6_abies_koreana_aurea/medium/49235570926_99ec10781d_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/6_abies_koreana_aurea/small/49235570926_99ec10781d_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/6_abies_koreana_aurea/thumbnail/49235570926_99ec10781d_b.jpg"
+    },
+    "price": 8.5,
+
+    "category": "Category 2"
+  },
+  {
+    "id": 7,
+    "common_name": "Alpine Fir",
+    "scientific_name": ["Abies lasiocarpa"],
+    "other_name": ["Subalpine Fir", "Rocky Mountain Fir"],
+    "cycle": "Perennial",
+    "watering": "Average",
+    "sunlight": ["full sun", "part shade"],
+    "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/og/51002756843_74fae3c2fa_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/regular/51002756843_74fae3c2fa_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/medium/51002756843_74fae3c2fa_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/small/51002756843_74fae3c2fa_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/thumbnail/51002756843_74fae3c2fa_b.jpg"
+    },
+    "price": 2.75,
+    "category": "Category 2"
+  },
+  {
+    "id": 8,
+    "common_name": "Blue Spanish Fir",
+    "scientific_name": ["Abies pinsapo 'Glauca'"],
+    "other_name": ["Glaucous Spanish Fir"],
+    "cycle": "Perennial",
+    "watering": "Average",
+    "sunlight": ["Full sun", "part shade"],
+    "default_image": {
+      "license": 4,
+      "license_name": "Attribution License",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/og/21657514018_c0d9fed9f4_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/regular/21657514018_c0d9fed9f4_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/medium/21657514018_c0d9fed9f4_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/small/21657514018_c0d9fed9f4_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/thumbnail/21657514018_c0d9fed9f4_b.jpg"
+    },
+    "price": 3.75,
+    "category": "Category 3"
+  },
+  {
+    "id": 9,
+    "common_name": "Noble Fir",
+    "scientific_name": ["Abies procera"],
+    "other_name": ["Red Fir", "White Fir"],
+    "cycle": "Perennial",
+    "watering": "Average",
+    "sunlight": ["full sun"],
+    "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/9_abies_procera/og/49107504112_6bd7effb8b_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/9_abies_procera/regular/49107504112_6bd7effb8b_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/9_abies_procera/medium/49107504112_6bd7effb8b_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/9_abies_procera/small/49107504112_6bd7effb8b_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/9_abies_procera/thumbnail/49107504112_6bd7effb8b_b.jpg"
+    },
+    "price": 10,
+
+    "category": "Category 3"
+  },
+  {
+    "id": 10,
+    "common_name": "Johin Japanese Maple",
+    "scientific_name": ["Acer 'Johin'"],
+    "other_name": ["Red Full Moon Maple"],
+    "cycle": "Perennial",
+    "watering": "Average",
+    "sunlight": ["full sun", "part shade"],
+    "default_image": {
+      "license": 451,
+      "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "original_url": "https://perenual.com/storage/species_image/10_acer_johin/og/pexels-photo-2183508.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/10_acer_johin/regular/pexels-photo-2183508.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/10_acer_johin/medium/pexels-photo-2183508.jpg",
+      "small_url": "https://perenual.com/storage/species_image/10_acer_johin/small/pexels-photo-2183508.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/10_acer_johin/thumbnail/pexels-photo-2183508.jpg"
+    },
+    "price": 8.5,
+
+    "category": "Category 3"
+  }
+]

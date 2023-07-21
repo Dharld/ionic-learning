@@ -1,0 +1,73 @@
+<ion-content>
+  <div class="p-4 font-sans h-full w-full relative">
+    <h1 class="text-2xl text-primary-300 font-semibold">OTP Authentication</h1>
+    <p class="text-neutral-300 text-sm mt-4 font-normal">
+      An authentication code has been sent to +237 6********
+    </p>
+    <div class="mt-8 flex justify-evenly">
+      <div
+        class="w-20 h-20 border border-neutral-300 rounded-lg bg-neutral-200 flex justify-center items-center focus-within:border-primary-300"
+      >
+        <input
+          type="text"
+          class="w-10 h-10 appearance-none bg-transparent border-none ring-0 focus:ring-0 text-2xl text-neutral-300"
+          maxlength="1"
+        />
+      </div>
+      <div
+        class="w-20 h-20 border border-neutral-300 rounded-lg bg-neutral-200 flex justify-center items-center focus-within:border-primary-300"
+      >
+        <input
+          type="text"
+          class="w-10 h-10 appearance-none bg-transparent border-none ring-0 focus:ring-0 text-2xl text-neutral-300"
+          maxlength="1"
+        />
+      </div>
+      <div
+        class="w-20 h-20 border border-neutral-300 rounded-lg bg-neutral-200 flex justify-center items-center focus-within:border-primary-300"
+      >
+        <input
+          type="text"
+          class="w-10 h-10 appearance-none bg-transparent border-none ring-0 focus:ring-0 text-2xl text-neutral-300"
+          maxlength="1"
+        />
+      </div>
+      <div
+        class="w-20 h-20 border border-neutral-300 rounded-lg bg-neutral-200 flex justify-center items-center focus-within:border-primary-300"
+      >
+        <input
+          type="text"
+          class="w-10 h-10 appearance-none bg-transparent border-none ring-0 focus:ring-0 text-2xl text-neutral-300"
+          maxlength="1"
+        />
+      </div>
+    </div>
+
+    <div class="w-full absolute bottom-4 left-0 px-4">
+      <div
+        class="w-fit mb-4 mx-auto flex items-center space-x-2 text-sm text-neutral-300"
+      >
+        <div>
+          <input
+            type="checkbox"
+            class="peer absolute w-5 h-5 z-20 opacity-0"
+            name="otp"
+            value="otp"
+            checked
+          />
+          <span
+            class="block w-5 h-5 rounded border border-primary-300 peer-checked:border-transparent peer-checked:bg-primary-300"
+          ></span>
+        </div>
+        <div>
+          Didn't receive OTP ? <span class="text-primary-300">Resend here</span>
+        </div>
+      </div>
+      <button
+        class="w-full bg-primary-300 text-neutral-100 rounded-lg py-4 hover:bg-primary-400 cursor-pointer"
+      >
+        Continue
+      </button>
+    </div>
+  </div>
+</ion-content>

@@ -1,0 +1,64 @@
+<ion-content>
+  <div class="p-4 font-sans h-full w-full relative">
+    <h1 class="text-2xl text-primary-300 font-semibold">Welcome aboard</h1>
+    <p class="text-neutral-300 text-sm mt-4 font-normal">
+      Please enter your informations to create a new application for using the
+      app
+    </p>
+    <div class="mt-8">
+      <div
+        class="relative w-full ring-1 ring-neutral-200 rounded-lg bg-neutral-200 py-2 px-4 focus-within:ring-1 focus-within:ring-primary-300 mb-3"
+      >
+        <input
+          type="text"
+          name="username"
+          id="name"
+          class="relative appearance-none border-none outline-none bg-transparent ring-0 w-full peer focus:ring-transparent z-10 text-neutral-300"
+        />
+        <label
+          for="username"
+          class="absolute left-4 font-normal top-4 text-primary-200 peer-focus:-top-3 peer-focus:text-sm peer-focus:text-primary-300 peer-focus:bg-neutral-100 peer-focus:px-3 transition-all"
+          >Username</label
+        >
+      </div>
+      <div
+        class="relative w-full ring-1 ring-neutral-200 rounded-lg bg-neutral-200 py-2 px-4 focus-within:ring-1 focus-within:ring-primary-300"
+      >
+        <input
+          type="text"
+          name="Phone"
+          id="phone"
+          class="relative appearance-none border-none outline-none bg-transparent ring-0 w-full peer focus:ring-transparent z-10 text-neutral-300"
+        />
+        <label
+          for="phone"
+          class="absolute left-4 font-normal top-4 text-primary-200 peer-focus:-top-3 peer-focus:text-sm peer-focus:text-primary-300 peer-focus:bg-neutral-100 peer-focus:px-3 transition-all"
+          >Phone number</label
+        >
+      </div>
+    </div>
+
+    <div class="w-full absolute bottom-4 left-0 px-4">
+      <div class="w-fit mb-4 mx-auto flex items-center space-x-2">
+        <div>
+          <input
+            type="checkbox"
+            class="peer absolute w-5 h-5 z-20 opacity-0"
+            name="otp"
+            value="otp"
+            checked
+          />
+          <span
+            class="block w-5 h-5 rounded border border-primary-300 peer-checked:border-transparent peer-checked:bg-primary-300"
+          ></span>
+        </div>
+        <div>Receive OTP via <span>Whatsapp</span></div>
+      </div>
+      <button
+        class="w-full bg-primary-300 text-neutral-100 rounded-lg py-4 hover:bg-primary-400 cursor-pointer"
+      >
+        Get OTP
+      </button>
+    </div>
+  </div>
+</ion-content>
